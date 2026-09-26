@@ -1,0 +1,10 @@
+# large data - do not push to GitHub
+dataset/
+*.zip
+*.tsv
+solution/output/
+student_resource/**/dataset/
+__MACOSX/
+.DS_Store
+__pycache__/
+*.pyc
